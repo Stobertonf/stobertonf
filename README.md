@@ -1,16 +1,20 @@
-### Hi there 👋
+### 
 
-<!--
-**Stobertonf/stobertonf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, seja bem vindo(a) 😄</h1>
 
-Here are some ideas to get you started:
+- 🔭 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Sou apaixonado por tecnologia e Café
+
+- 🔭 Atualmente estou trabalhando como Freelancer
+
+- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server E MySql
+
+- ▶️  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
+      https://www.linkedin.com/in/stoberton-francisco-39a4256a/ 
+
+- 💬 Estou em busca de novos desafios, então, caso tenha alguma ideia de projeto ou precise de ajuda no seu, não hesite em me acionar
+
+- 📫 Caso queira conversar comigo, tirar dúvidas ou até mesmo, me ensinar ou ajudar a melhorar em algo, fique a vontade para me mandar um e-mail: **stobertonf@gmail.com**
+
+- ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível  
