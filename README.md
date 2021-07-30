@@ -8,7 +8,7 @@
 
 - 🔭 Atualmente estou trabalhando como Freelancer
 
-- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server E MySql
+- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server e MySql
 
 - ▶️  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco-39a4256a/ 
