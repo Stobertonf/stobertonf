@@ -11,7 +11,7 @@
 - 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server e MySql
 
 - ▶️  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
-      https://www.linkedin.com/in/stoberton-francisco-39a4256a/ 
+      https://www.linkedin.com/in/stoberton-francisco/
 
 - 💬 Estou em busca de novos desafios, então, caso tenha alguma ideia de projeto ou precise de ajuda no seu, não hesite em me acionar
 
