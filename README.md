@@ -8,7 +8,7 @@
 
 - 🔭 Atualmente estou trabalhando como Freelancer e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo o Santander               Bootcamp | Mobile Developer na Digital Innovation One e estudando Inglês no curso do Professor Mairo Vergara
 
-- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server e MySql
+- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase
 
 - ▶️  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
