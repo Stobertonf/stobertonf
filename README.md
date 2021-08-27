@@ -15,6 +15,6 @@
 
 - 💬 Estou em busca de novos desafios, então, caso tenha alguma ideia de projeto ou precise de ajuda no seu, não hesite em me acionar
 
-- 📫 Caso queira conversar comigo, tirar dúvidas ou até mesmo me ensinar ou ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stoberton@smfsystems.com.br**
+- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stoberton@smfsystems.com.br**
 
 - ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível  
