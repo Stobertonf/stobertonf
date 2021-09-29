@@ -6,15 +6,15 @@
 
 - 👋 Sou apaixonado por tecnologia e Café
 
-- 🔭 Atualmente estou trabalhando como Freelancer e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo o Santander               Bootcamp | Mobile Developer na Digital Innovation One e estudando Inglês no curso do Professor Mairo Vergara
+- 🔭 Atualmente estou trabalhando como Mobile Devloper na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo o curso de Kotlin na Udemy, do professor Gabriel Ferrari e estudando Inglês no curso do Professor Mairo Vergara
 
 - 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase
 
 - ▶️  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
 
-- 💬 Estou em busca de novos desafios, então, caso tenha alguma ideia de projeto ou precise de ajuda no seu, não hesite em me acionar
+- 💬 Estou em busca de aprimorar meus conhecimentos com Flutter e estou começando a aprender Kotlin, então, caso tenha algum link que possa me ajudar, por favor me envie.
 
-- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stoberton@smfsystems.com.br**
+- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonfgmail.com**
 
 - ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível  
