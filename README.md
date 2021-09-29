@@ -6,7 +6,7 @@
 
 - 👋 Sou apaixonado por tecnologia e Café
 
-- 🔭 Atualmente estou trabalhando como Mobile Devloper na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo o curso de Kotlin na Udemy, do professor Gabriel Ferrari e estudando Inglês no curso do Professor Mairo Vergara
+- 🔭 Atualmente estou trabalhando como Mobile Developer na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo o curso de Kotlin na Udemy, do professor Gabriel Ferrari e estudando Inglês no curso do Professor Mairo Vergara
 
 - 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase
 
