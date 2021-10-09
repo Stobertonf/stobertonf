@@ -2,15 +2,15 @@
 
 <h1 align="center">Olá, seja bem vindo(a) 😄</h1>
 
-- 🔭 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU
+- 👋 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU
 
-- 👋 Sou apaixonado por tecnologia e Café
+- 🔭 Sou apaixonado por tecnologia e Café
 
-- 🔭 Atualmente estou trabalhando como Mobile Developer na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo a carreira de devesenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do Professor Mairo Vergara
+- ▶️ Atualmente estou trabalhando como Mobile Developer na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo a carreira de devesenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do Professor Mairo Vergara
 
 - 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase
 
-- ▶️  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
+- 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
 
 - 💬 Estou em busca de aprimorar meus conhecimentos com Flutter, então, caso tenha algum link que possa me ajudar, por favor me envie.
