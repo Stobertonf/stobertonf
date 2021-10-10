@@ -17,4 +17,4 @@
 
 - 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonfgmail.com**
 
-- ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível  
+- ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível
