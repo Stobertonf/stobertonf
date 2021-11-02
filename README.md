@@ -12,6 +12,9 @@
 
 - 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
+      
+- ▶️  Me siga na Dio.me, me adicione no linkedin:
+      https://www.linkedin.com/in/stoberton-francisco/
 
 - 💬 Estou em busca de aprimorar meus conhecimentos com Flutter, então, caso tenha algum link que possa me ajudar, por favor me envie.
 
