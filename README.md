@@ -8,7 +8,7 @@
 
 - ▶️ Atualmente estou trabalhando como Mobile Developer na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo a carreira de devesenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do Professor Mairo Vergara
 
-- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase
+- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase. No entanto, meu foco hoje é atuar na plataforma Mobile com Flutter.
 
 - 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
