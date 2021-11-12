@@ -8,7 +8,7 @@
 
 - ▶️ Atualmente estou trabalhando como Mobile Developer Flutter na Pull Up e estou estudando Flutter no curso dos instrutores Daniel Ciolfi & Rodrigo Marques. Além disso, estou fazendo a carreira de devesenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do Professor Mairo Vergara. Após finalizar a carreira de Mobile Developer, irei iniciar o curso de Flutter 2.0 do professor Jamilton Damasceno, na plataforma da Udemy, neste curso, além de rever os conceitos básicos do Dart & Flutter, terei a oportunidade de aprender o Flutter Web e depois, pretendo aprender a desenvolver meu primeiro App para Windows com o Flutter. Mas não irei parar por ai, após concluir todos esses cursos, irei fazer a carreira de Desenvolvedor Backend .NET, no Balta.io. Então, em breve espero trazer muitas novidades para este repositório!!! 😄 
 
-- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, MVC, SQL Server, MySql e Firebase. No entanto, meu foco hoje é atuar na plataforma Mobile com Flutter e depois voltar a atuar como FullStack.
+- 👨‍💻 As tecnologias que já atuei são: Dart, Flutter, C#, VB.Net, HTML5, CSS3, Bootstrap 4, JavaScript, Jquery, Kendo UI, PHP, Wordpress, OpenCart, .NET, MVC, SQL Server, MySql e Firebase. No entanto, meu foco hoje é atuar na plataforma Mobile com Flutter e depois voltar a atuar como FullStack.
 
 - 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
