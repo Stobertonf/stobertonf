@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá, seja bem vindo(a) 😄</h1>
 
-- 👋 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU
+- 👋 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU.
 
 - 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
@@ -18,4 +18,4 @@
 
 - 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonfgmail.com**
 
-- ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível
+- ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível.
