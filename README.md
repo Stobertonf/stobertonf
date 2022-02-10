@@ -19,3 +19,16 @@
 - 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonfgmail.com**
 
 - ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível.
+
+<p align="left">
+  <a href="mailto:stobertonf@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=stobertonf@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/stoberton-francisco/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoberton-francisco/" /></a>
+
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176"/></a>
+
+</p>  
+
