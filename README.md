@@ -16,7 +16,7 @@
 
 - 💬 Estou em busca de aprimorar meus conhecimentos com Flutter, então, caso tenha algum link que possa me ajudar, por favor me envie.
 
-- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonfgmail.com**
+- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonf@gmail.com**
 
 - ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível.
 
