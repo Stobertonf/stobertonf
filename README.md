@@ -16,7 +16,7 @@
 
 - 💬 Estou em busca de aprimorar meus conhecimentos com Flutter, então, caso tenha algum link que possa me ajudar, por favor me envie.
 
-- 📚 Neste momento, as tecnologias que possuo interesse em atuar, seriam Dart & Flutter pois acredito que para eu ser aprovado em uma certificação (Flutter Certified Application Developer), devo enfrentar e vencer desafios diários com elas. Sendo assim, estou aberto a desafios que possam me tornar um profissional melhor e consequentemente alcançar essa meta. Portanto, caso você possua uma oportunidade, que possa agregar a minha carreira, seja em um grupo de estudos, seja um problema em seu projeto ou até mesmo, precise aprender algo no qual eu possa te ensinar, pode me acionar que será um prazer te ajudar.
+- 📚 Neste momento, as tecnologias que possuo interesse em atuar, seriam Dart & Flutter pois acredito que para eu ser aprovado em uma certificação (Flutter Certified Application Developer) devo enfrentar e vencer desafios diários com elas. Sendo assim, estou aberto a desafios que possam me tornar um profissional melhor e consequentemente alcançar essa meta. Portanto, caso você possua uma oportunidade, que possa agregar a minha carreira, seja em um grupo de estudos, seja um problema em seu projeto ou até mesmo, precise aprender algo no qual eu possa te ensinar, pode me acionar que será um prazer te ajudar.
 
 
 - 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonf@gmail.com**
