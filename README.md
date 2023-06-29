@@ -25,7 +25,25 @@
 
 - ⚡ Iniciei minha carreira como dev em 2014 e já cheguei a atuar como algumas tecnologias. Algumas eu não atuo ou pratico mais, mas possuo conhecimento básico:
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+HTML5 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) -
+JS ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) -
+JQUERY ![jQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) -
+KENDO UI ![Kendo UI](https://raw.githubusercontent.com/devicons/devicon/master/icons/kendo/kendo-original.svg) -
+CSS3 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) -
+BOOTSTRAP ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) -
+PHP ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) -
+WORDPRESS ![WordPress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg) -
+OPENCART ![OpenCart](https://raw.githubusercontent.com/devicons/devicon/master/icons/opencart/opencart-original.svg) -
+C# ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) -
+VB.NET ![VB.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/vbnet/vbnet-original.svg) -
+.NET MAUI ![.NET MAUI](https://raw.githubusercontent.com/devicons/devicon/master/icons/maui/maui-original.svg) -
+DART ![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg) -
+FLUTTER ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) -
+FIREBASE ![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg) -
+MYSQL ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) -
+SQL SERVER ![SQL Server](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) -
+HIVE ![Hive](https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg) -
+SQLITE ![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)
 
 
 <p align="center">
