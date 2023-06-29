@@ -23,6 +23,11 @@
 
 - ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível.
 
+- ⚡ Iniciei minha carreira como dev em 2014 e já cheguei a atuar como algumas tecnologias. Algumas eu não atuo ou pratico mais, mas possuo conhecimento básico:
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
 <p align="center">
   <a href="mailto:stobertonf@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=stobertonf@gmail.com" /></a>
