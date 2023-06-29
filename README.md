@@ -26,24 +26,24 @@
 - ⚡ Iniciei minha carreira como dev em 2014 e já cheguei a atuar como algumas tecnologias. Algumas eu não atuo ou pratico mais, mas possuo conhecimento básico:
 
       
-HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"> -
-JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> -
-JQUERY <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="20" height="20"> -
-KENDO UI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kendo/kendo-original.svg" alt="Kendo UI" width="20" height="20"> -
-CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"> -
-BOOTSTRAP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"> -
-PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"> -
-WORDPRESS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="20" height="20"> -
-OPENCART <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencart/opencart-original.svg" alt="OpenCart" width="20" height="20"> -
-C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> -
-VB.NET <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vbnet/vbnet-original.svg" alt="VB.NET" width="20" height="20"> -
-.NET MAUI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maui/maui-original.svg" alt=".NET MAUI" width="20" height="20"> -
-DART <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> -
-FLUTTER <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"> -
-FIREBASE <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="20" height="20"> -
-MYSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"> -
-SQL SERVER <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="20" height="20">
-HIVE <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="Hive" width="
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kendo/kendo-original.svg" alt="Kendo UI" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencart/opencart-original.svg" alt="OpenCart" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vbnet/vbnet-original.svg" alt="VB.NET" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maui/maui-original.svg" alt=".NET MAUI" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="20" height="20"> -
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="Hive" width="
 
 
 <p align="center">
