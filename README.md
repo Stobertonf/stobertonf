@@ -11,7 +11,7 @@
 - 🌱 Meu Perfil na Dev.to:
      https://dev.to/stobertonf
 
-- 💻  Me siga na Dio.me e no:
+- 💻  Me siga na Dio.me:
       https://web.dio.me/users/stobertonf
 
 - 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
