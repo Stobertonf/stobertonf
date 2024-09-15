@@ -8,12 +8,11 @@
 
 - 🎓 Atualmente estou trabalhando como Mobile Developer Flutter na Mazza ATS. Tenho como objetivo ser aprovado na Flutter Certified Application Developer. Para alcançar essa meta, estou estudando Flutter em algumas plataformas e recentemente, finalizei o curso de Flutter 2.0 do professor Jamilton Damasceno, na plataforma Udemy. Neste curso, além de rever os conceitos básicos do Dart & Flutter, eu tive a oportunidade de aprender o Flutter Web. Agora, irei iniciar o curso de Flutter dos instrutores Daniel Ciolfi & Rodrigo Marques na mesma plataforma. Além disso, estou fazendo a carreira de desenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do professor Mairo Vergara. Após finalizar a carreira de Mobile Developer, irei iniciar meus estudos na plataforma Sttarto.dev, do professor Daniel Ciolfi e depois, pretendo aprender a desenvolver meu primeiro App para Windows com o Flutter. Mas não irei parar por ai, após concluir todos esses cursos, pretendo desenvolver um aplicativo, para administrar minhas contas pessoais e um site de portfólio utilizando Dart & Flutter Web, somente para por em prática todo o conteúdo que eu tive a oportunidade de aprender . Também pretendo fazer a carreira de Desenvolvedor Backend .Net no balta.io, pois eu gostaria de atuar com .Net Maui e acredito que preciso rever alguns conceitos dessa plataforma open-source. Sendo assim espero trazer muitas novidades para este repositório em breve!!! 😄 
 
-- 💻  Me siga na Dio.me e no:
-      https://web.dio.me/users/stobertonf
-
 - 🌱 Meu Perfil na Dev.to:
      https://dev.to/stobertonf
 
+- 💻  Me siga na Dio.me e no:
+      https://web.dio.me/users/stobertonf
 
 - 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
       https://www.linkedin.com/in/stoberton-francisco/
