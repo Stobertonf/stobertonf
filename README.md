@@ -11,7 +11,7 @@
 - 💻  Me siga na Dio.me e no:
       https://web.dio.me/users/stobertonf
 
-- devto Meu Perfil na Dev.to:
+- DevTo-Dark.svg Meu Perfil na Dev.to:
      https://dev.to/stobertonf
 
 - 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
