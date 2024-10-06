@@ -7,7 +7,7 @@
 - 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
 - 🎓 Atualmente estou trabalhando como Mobile Developer Flutter na Mazza ATS. Tenho como objetivo ser aprovado na Flutter Certified Application Developer. Para alcançar essa meta, estou estudando Flutter em algumas plataformas e recentemente, finalizei o curso de Flutter 2.0 do professor Jamilton Damasceno, na plataforma Udemy. Neste curso, além de rever os conceitos básicos do Dart & Flutter, eu tive a oportunidade de aprender o Flutter Web. Agora, irei iniciar o curso de Flutter dos instrutores Daniel Ciolfi & Rodrigo Marques na mesma plataforma. Além disso, estou fazendo a carreira de desenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do professor Mairo Vergara. Após finalizar a carreira de Mobile Developer, irei iniciar meus estudos na plataforma Sttarto.dev, do professor Daniel Ciolfi e depois, pretendo aprender a desenvolver meu primeiro App para Windows com o Flutter. Mas não irei parar por ai, pois em meu tempo livre, estou desenvolvendo um aplicativo, para administrar minhas contas pessoais.
-Pretendo desenvolver a API desse projeto, utilziando a tecnologia c# e um site de portfólio utilizando Dart & Flutter Web, para apresentar o aplicativo que foi desenvolvido. 😄 
+Pretendo desenvolver a API desse projeto, utlizando a tecnologia c# e um site de portfólio utilizando Dart & Flutter Web, para apresentar o aplicativo que foi desenvolvido. 😄 
 
 - 🌱 Meu Perfil na Dev.to:
      https://dev.to/stobertonf
