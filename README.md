@@ -4,8 +4,6 @@
 
 - 👋 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU.
 
-- 👋 Me chamo Stoberton e sou formado em Análise e Desenvolvimento de Sistemas pela FMU.
-
 - 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
 - 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na Mazza ATS e estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso, estou me dedicando a diversos estudos:
