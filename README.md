@@ -10,7 +10,7 @@
 
 - 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na Mazza ATS e estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso, estou me dedicando a diversos estudos:
 Iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
-Completando a carreira de desenvolvedor Flutter no Balta.io.
+Completei a carreira de desenvolvedor Flutter no Balta.io.
 Estudando inglês com o professor Mairo Vergara.
 Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
 
