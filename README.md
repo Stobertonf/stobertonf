@@ -14,7 +14,7 @@ Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde r
 
 - 🧑‍💻 Em meu tempo livre, estou desenvolvendo um app pessoal para administrar contas. Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
 
-- 📚 Atualmente, o projeto utiliza Dart, Flutter, Firebase, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. Também pretendo lançá-lo em Flutter Web. No futuro, planejo criar uma versão em Xamarin, C# e .NET MAUI para ampliar meu conhecimento nessas tecnologias.
+- 📚 Atualmente, o projeto utiliza Dart, Flutter, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. Também pretendo lançá-lo em Flutter Web. No futuro, planejo criar uma versão em Xamarin, C# e .NET MAUI para ampliar meu conhecimento nessas tecnologias.
 
 - 🌱 Meu Perfil na Dev.to: https://dev.to/stobertonf
 
