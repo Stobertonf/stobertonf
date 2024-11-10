@@ -22,9 +22,9 @@ Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde r
 
 - 🔭 Conheça minha trajetória profissional no LinkedIn: https://www.linkedin.com/in/stoberton-francisco/
 
-- 💬 Estou revisitando conceitos de Dart, Flutter, .NET e .NET MAUI. Se você tiver alguma dica, link, ou quiser compartilhar conhecimento, me avise! Feedbacks e correções são sempre bem-vindos.
+- 💬 Estou em busca de rever conceitos de Dart, Flutter, .Net e .net Maui. Então, caso você tenha alguma dica, um link, se quiser compartilhar seu conhecimento, corrigir meus códigos, me ensinar, ou qualquer informação que acredite que possa me ajudar, por favor me envie.
 
-- 📫 Entre em contato: stobertonf@gmail.com
+- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonf@gmail.com
 
 - ⚡ Busco melhorar meus conhecimentos diariamente e pretendo atualizar este repositório sempre que possível.
 
