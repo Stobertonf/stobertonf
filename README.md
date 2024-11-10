@@ -9,11 +9,12 @@
 - 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
 - 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na Mazza ATS. Estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso:
+- 
+    Estou iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
+    Estudei a carreira de desenvolvedor Flutter no Balta.io e estudo inglês com o professor Mairo Vergara.
+    Estudei Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
 
-Estudei Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
-Estou iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
-Sigo a carreira de desenvolvedor Flutter no Balta.io e estudo inglês com o professor Mairo Vergara.
-🧑‍💻 Em meu tempo livre, estou desenvolvendo um app pessoal para administrar contas. Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
+- 🧑‍💻 Em meu tempo livre, estou desenvolvendo um app pessoal para administrar contas. Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
 
 - 📚 Atualmente, o projeto utiliza Dart, Flutter, Firebase, Solid, Clean Architecture e Cubit como gerenciador de estado. Também pretendo lançá-lo em Flutter Web. No futuro, planejo criar uma versão em Xamarin, C# e .NET MAUI para ampliar meu conhecimento nessas tecnologias.
 
