@@ -4,28 +4,30 @@
 
 - 👋 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU.
 
+-- 👋 Me chamo Stoberton e sou formado em Análise e Desenvolvimento de Sistemas pela FMU.
+
 - 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
-- 🎓 Atualmente estou trabalhando como Mobile Developer Flutter na Mazza ATS. Tenho como objetivo ser aprovado na Flutter Certified Application Developer. Para alcançar essa meta, estou estudando Flutter em algumas plataformas e recentemente, finalizei o curso de Flutter 2.0 do professor Jamilton Damasceno, na plataforma Udemy. Neste curso, além de rever os conceitos básicos do Dart & Flutter, eu tive a oportunidade de aprender o Flutter Web. Agora, irei iniciar o curso de Flutter dos instrutores Daniel Ciolfi & Rodrigo Marques na mesma plataforma. Além disso, estou fazendo a carreira de desenvolvedor Mobile Flutter no Balta.io e estudando Inglês no curso do professor Mairo Vergara. Após finalizar a carreira de Mobile Developer, irei iniciar meus estudos na plataforma Sttarto.dev, do professor Daniel Ciolfi e depois, pretendo aprender a desenvolver meu primeiro App para Windows com o Flutter. Mas não irei parar por ai, pois em meu tempo livre, estou desenvolvendo um aplicativo, para administrar minhas contas pessoais.
-Pretendo desenvolver a API desse projeto, utlizando a tecnologia c# e um site de portfólio utilizando Dart & Flutter Web, para apresentar o aplicativo que foi desenvolvido. 😄 
+- 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na Mazza ATS. Estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso:
 
-- 🌱 Meu Perfil na Dev.to:
-     https://dev.to/stobertonf
+Estudei Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
+Estou iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
+Sigo a carreira de desenvolvedor Flutter no Balta.io e estudo inglês com o professor Mairo Vergara.
+🧑‍💻 Em meu tempo livre, estou desenvolvendo um app pessoal para administrar contas. Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
 
-- 💻  Me siga na Dio.me:
-      https://web.dio.me/users/stobertonf
+- 📚 Atualmente, o projeto utiliza Dart, Flutter, Firebase, Solid, Clean Architecture e Cubit como gerenciador de estado. Também pretendo lançá-lo em Flutter Web. No futuro, planejo criar uma versão em Xamarin, C# e .NET MAUI para ampliar meu conhecimento nessas tecnologias.
 
-- 🔭  Se quiser conhecer mais sobre a minha trajetória profissional, me adicione no linkedin:
-      https://www.linkedin.com/in/stoberton-francisco/
+- 🌱 Meu Perfil na Dev.to: https://dev.to/stobertonf
 
-- 💬 Estou em busca de rever conceitos de Dart, Flutter, .Net e .net Maui. Então, caso você tenha alguma dica, um link, se quiser compartilhar seu conhecimento, corrigir meus códigos, me ensinar, ou qualquer informação que acredite que possa me ajudar, por favor me envie.
+- 💻 Me siga na Dio.me: https://web.dio.me/users/stobertonf
 
-- 📚 Neste momento, estou desenvolvendo um projeto pessoal no meu tempo livre, a minha ideia é desenvolver um App, utilizando Dart, Flutter, Firebase, Solid e Clean Architecture. No entanto, o gerenciador de estado ainda estou analisando qual seria o mais adqueado para este projeto. Além disso, irei aproveitar o mesmo código para desenvolver a versão Web deste projeto. Após finalizar o projeto em Flutter, pretendo desenvolver uma v1 do mesmo utilizando Xamarin, C# e .Net Maui, pois tenho muito interesse em aprender mais sobre essas tecnologias e melhorar meu nível de conhecimento.
+- 🔭 Conheça minha trajetória profissional no LinkedIn: https://www.linkedin.com/in/stoberton-francisco/
 
+- 💬 Estou revisitando conceitos de Dart, Flutter, .NET e .NET MAUI. Se você tiver alguma dica, link, ou quiser compartilhar conhecimento, me avise! Feedbacks e correções são sempre bem-vindos.
 
-- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: **stobertonf@gmail.com**
+- 📫 Entre em contato: stobertonf@gmail.com
 
-- ⚡ Busco melhorar meus conhecimentos a cada dia e pretendo atualizar este repositório sempre que possível.
+- ⚡ Busco melhorar meus conhecimentos diariamente e pretendo atualizar este repositório sempre que possível.
 
 <p align="center">
   <a href="mailto:stobertonf@gmail.com" alt="Gmail">
