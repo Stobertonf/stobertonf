@@ -13,7 +13,7 @@
  - Estudando inglês com o professor Mairo Vergara.
  - Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
    
--🧑‍💻 Em meu tempo livre, estou desenvolvendo de forma independente um app pessoal para administração de contas. Este projeto é 100% autoral e sem vínculo com qualquer empresa onde atuo.
+- 🧑‍💻 Em meu tempo livre, estou desenvolvendo de forma independente um app pessoal para administração de contas. Este projeto é 100% autoral e sem vínculo com qualquer empresa onde atuo.
 
  - Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
  - O projeto utiliza Dart, Flutter, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. No futuro, também pretendo lançá-lo em Flutter Web.
