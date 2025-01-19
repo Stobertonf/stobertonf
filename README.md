@@ -2,31 +2,32 @@
 
 <h1 align="center">Olá, seja bem vindo(a) 😄</h1>
 
-- 👋 Me chamo Stoberton e sou formado em análise e desenvolvimento de sistemas pela FMU.
+- 👋 Me chamo Stoberton e sou formado em Análise e Desenvolvimento de Sistemas pela FMU.
 
 - 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
 - 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na Mazza ATS e estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso, estou me dedicando a diversos estudos:
-  - Iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).  
-  - Completei a carreira de desenvolvedor Flutter no Balta.io.  
-  - Estudando inglês com o professor Mairo Vergara.  
-  - Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
 
-- 🧑‍💻 Em meu tempo livre, estou desenvolvendo um app pessoal para administrar contas. Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
-  
-- 📚 Atualmente, o projeto utiliza Dart, Flutter, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. Também pretendo lançá-lo em Flutter Web. No futuro, planejo criar uma versão em Xamarin, C# e .NET MAUI para ampliar meu conhecimento nessas tecnologias.
+ - Iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
+ - Completei a carreira de Desenvolvedor Flutter no Balta.io.
+ - Estudando inglês com o professor Mairo Vergara.
+ - Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
+   
+-🧑‍💻 Em meu tempo livre, estou desenvolvendo de forma independente um app pessoal para administração de contas. Este projeto é 100% autoral e sem vínculo com qualquer empresa onde atuo.
 
-- 🌱 Meu Perfil na Dev.to: https://dev.to/stobertonf
+ - Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
+ - O projeto utiliza Dart, Flutter, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. No futuro, também pretendo lançá-lo em Flutter Web.
+ - Além disso, planejo criar uma versão em Xamarin, C# e .NET MAUI para ampliar meu conhecimento nessas tecnologias.
 
-- 💻 Me siga na Dio.me: https://web.dio.me/users/stobertonf
+🌱 Meu Perfil na Dev.to: https://dev.to/stobertonf
 
-- 🔭 Conheça minha trajetória profissional no LinkedIn: https://www.linkedin.com/in/stoberton-francisco/
+🔭 Conheça minha trajetória profissional no LinkedIn: https://www.linkedin.com/in/stoberton-francisco/
 
-- 💬 Estou em busca de rever conceitos de Dart, Flutter, .Net e .net Maui. Então, caso você tenha alguma dica, um link, se quiser compartilhar seu conhecimento, corrigir meus códigos, me ensinar, ou qualquer informação que acredite que possa me ajudar, por favor me envie.
+💬 Estou revisando conceitos de Dart, Flutter, .NET e .NET MAUI. Caso você tenha dicas, links, correções nos meus códigos ou qualquer informação que possa me ajudar, fico muito grato por compartilhar!
 
-- 📫 Caso queira conversar comigo, tirar dúvidas, me ensinar ou me ajudar a melhorar em algo fique a vontade para me mandar um e-mail: stobertonf@gmail.com
+📫 Entre em contato comigo: stobertonf@gmail.com
 
-- ⚡ Busco melhorar meus conhecimentos diariamente e pretendo atualizar este repositório sempre que possível.
+⚡ Busco melhorar meus conhecimentos diariamente e pretendo atualizar este repositório sempre que possível.
 
 <p align="center">
   <a href="mailto:stobertonf@gmail.com" alt="Gmail">
