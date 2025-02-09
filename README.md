@@ -6,7 +6,7 @@
 
  🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
- 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na Mazza ATS e estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso, estou me dedicando a diversos estudos:
+ 🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na SMF Systems Technology e estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso, estou me dedicando a diversos estudos:
 
  - Iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
  - Completei a carreira de Desenvolvedor Flutter no Balta.io.
