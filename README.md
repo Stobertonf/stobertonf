@@ -11,10 +11,10 @@
 - Estudando inglês com o professor Mairo Vergara.
 - Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
 
-📌 **Estudo de APIs em C#**  
+📌 **Estudo de APIs em C#**:
 Atualmente, também estou me aprofundando no desenvolvimento de APIs com C#.  
-📚 **Curso**: Aprenda a criar uma API REST completa com C# (Net7 e EFCore7)  
-👨‍🏫 **Professor**: Weberson Rodrigues (Udemy)  
+- 📚 **Curso**: Aprenda a criar uma API REST completa com C# (Net7 e EFCore7)  
+- 👨‍🏫 **Professor**: Weberson Rodrigues (Udemy)  
 
 Este curso foca na criação de APIs completas utilizando boas práticas, como separação por camadas, DDD, injeção de dependências e autenticação JWT. Meu objetivo é aplicar esse conhecimento na construção de um backend sólido para meus projetos.
 
