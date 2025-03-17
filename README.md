@@ -4,24 +4,31 @@
 
 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
-🎓 Atualmente, trabalho como Desenvolvedor Mobile Flutter na SMF Systems Technology e estou focado em alcançar a certificação Flutter Certified Application Developer. Para isso, estou me dedicando a diversos estudos:
+🎓 Atuo como **Desenvolvedor Mobile Flutter na SMF Systems Technology** e estou focado em conquistar a certificação **Flutter Certified Application Developer**. Para isso, venho me dedicando a uma rotina intensa de estudos e projetos práticos.
 
 - Iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
 - Completei a carreira de Desenvolvedor Flutter no Balta.io.
 - Estudando inglês com o professor Mairo Vergara.
 - Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos básicos de Dart e Flutter e aprendi sobre Flutter Web.
 
-📌 **Estudo de APIs em C#**:
+📌 **Estudo de APIs em C#**:  
 Atualmente, também estou me aprofundando no desenvolvimento de APIs com C#.  
 - 📚 **Curso**: Aprenda a criar uma API REST completa com C# (Net7 e EFCore7)  
 - 👨‍🏫 **Professor**: Weberson Rodrigues (Udemy)  
 
 Este curso foca na criação de APIs completas utilizando boas práticas, como separação por camadas, DDD, injeção de dependências e autenticação JWT. Meu objetivo é aplicar esse conhecimento na construção de um backend sólido para meus projetos.
 
+📱 **Estudo de .NET MAUI e Espanhol**:  
+Também estou estudando desenvolvimento mobile cross-platform com **.NET MAUI**, o que tem ampliado minha visão sobre construção de apps nativos e multiplataforma.  
+- 📚 **Curso**: .NET MAUI con Visual Studio 2022 creando PROYECTOS  
+- 👨‍🏫 **Instrutor**: Héctor Uriel Pérez (Udemy)  
+Além do aprendizado técnico, o curso me proporciona a oportunidade de treinar e aprimorar meu **espanhol**, o que agrega ainda mais valor à minha formação.
+
 🧑‍💻 Em meu tempo livre, estou desenvolvendo, de forma independente, um app pessoal para a administração de contas. Este projeto é totalmente autoral e independente, sem qualquer vínculo com as empresas onde trabalho.
 
 - Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
-- O projeto utiliza Dart, Flutter, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. No futuro, pretendo lançá-lo também em Flutter Web e explorar outras tecnologias como Xamarin, C# e .NET MAUI.
+- O projeto utiliza Dart, Flutter, Solid, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado. 
+- Atualmente, estou desenvolvendo esse projeto em **Flutter**, mas também estou implementando uma versão em **.NET MAUI** como parte do meu processo de aprendizado e validação de tecnologias multiplataforma.
 
 🌱 Meu Perfil na Dev.to: [dev.to/stobertonf](https://dev.to/stobertonf)
 
