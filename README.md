@@ -4,7 +4,7 @@
 
 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
 
-🎓 Atuo como Flutter Developer — Mobile & Web Apps na FSBR - Fábrica de Software do Brasil e estou focado em conquistar a certificação Flutter Certified Application Developer. Para isso, venho me dedicando a uma rotina intensa de estudos e projetos práticos.
+🎓 Atuo como Flutter Developer — Mobile & Web Apps na FSBR - SMF Systems Technology e estou focado em conquistar a certificação Flutter Certified Application Developer. Para isso, venho me dedicando a uma rotina intensa de estudos e projetos práticos.
 
 📚 Estudos e formações recentes:
 
