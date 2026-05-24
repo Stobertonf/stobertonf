@@ -71,6 +71,9 @@ Atualmente, estou desenvolvendo esse projeto em Flutter, mas também estou imple
 
   <a href="https://www.behance.net/smfsystems" alt="Behance">
   <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&labelColor=1769FF&logo=behance&logoColor=white&link=https://www.behance.net/smfsystems" /></a>
+
+  <a href="https://gitlab.com/stobertonm" alt="GitLab">
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&labelColor=FC6D26&logo=gitlab&logoColor=white&link=https://gitlab.com/stobertonm" /></a>
 </p>
 
 <p align="center">
