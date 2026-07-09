@@ -93,11 +93,13 @@ Como parceiro da Hostoo Alliance, disponibilizo soluções profissionais de hosp
 
   <a href="https://gitlab.com/stobertonm" alt="GitLab">
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&labelColor=FC6D26&logo=gitlab&logoColor=white&link=https://gitlab.com/stobertonm" /></a>
-</p>
 
 <a href="https://hostoo.io/?ref=fe10eafd1d2486f783859161e5810f94" alt="Hospedagem WordPress">
   <img src="https://img.shields.io/badge/-WordPress%20Hosting-21759B?style=flat-square&labelColor=21759B&logo=wordpress&logoColor=white"/>
 </a>
+
+</p>
+
 
 <p align="center">
   <a href="https://github.com/stobertonf">
