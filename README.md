@@ -1,5 +1,3 @@
-<h1 align="center">Olá, seja bem-vindo(a) 😄</h1>
-
 👋 Me chamo Stoberton e sou formado em Análise e Desenvolvimento de Sistemas pela FMU.
 
 🥰 Sou apaixonado por tecnologia, café e uma coquinha.
@@ -16,8 +14,7 @@ Estudando inglês com o professor Mairo Vergara.
 
 Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos fundamentais de Dart e Flutter e aprendi sobre Flutter Web.
 
-🚀 Atualmente realizando o curso:
-Aprenda a Criar um App de Pizzaria – FlutterFlow | NoCode
+🚀 Atualmente realizando o curso: Aprenda a Criar um App de Pizzaria – FlutterFlow | NoCode
 
 👨‍🏫 Professor: Diego Silva
 
@@ -25,8 +22,7 @@ Aprenda a Criar um App de Pizzaria – FlutterFlow | NoCode
 
 Neste curso, estou explorando o FlutterFlow como ferramenta NoCode/LowCode, com foco em produtividade, validação rápida de ideias (MVPs) e compreensão de fluxos visuais, integrando esse conhecimento à minha base sólida em Flutter tradicional.
 
-📌 Estudo de APIs em C#:
-Atualmente, também estou me aprofundando no desenvolvimento de APIs com C#.
+📌 Estudo de APIs em C#: Atualmente, também estou me aprofundando no desenvolvimento de APIs com C#.
 
 📚 Curso: Aprenda a criar uma API REST completa com C# (Net7 e EFCore7)
 
@@ -34,8 +30,7 @@ Atualmente, também estou me aprofundando no desenvolvimento de APIs com C#.
 
 Este curso foca na criação de APIs completas utilizando boas práticas, como separação por camadas, DDD, injeção de dependências e autenticação JWT. Meu objetivo é aplicar esse conhecimento na construção de um backend sólido para meus projetos.
 
-📱 Estudo de .NET MAUI e Espanhol:
-Também estou estudando desenvolvimento mobile cross-platform com .NET MAUI, o que tem ampliado minha visão sobre construção de apps nativos e multiplataforma.
+📱 Estudo de .NET MAUI e Espanhol: Também estou estudando desenvolvimento mobile cross-platform com .NET MAUI, o que tem ampliado minha visão sobre construção de apps nativos e multiplataforma.
 
 📚 Curso: .NET MAUI con Visual Studio 2022 creando PROYECTOS
 
@@ -57,26 +52,28 @@ Atualmente, estou desenvolvendo esse projeto em Flutter, mas também estou imple
 
 💬 Estou revisando conceitos de Dart, Flutter, .NET e .NET MAUI. Caso você tenha dicas, links, correções nos meus códigos ou qualquer informação que possa me ajudar, ficarei muito grato por compartilhar!
 
-☁️ Infraestrutura & WordPress
+## ☁️ Infraestrutura & Hospedagem
 
-Também ofereço soluções completas para empresas que precisam colocar seus projetos na internet com segurança e alta disponibilidade.
+Além do desenvolvimento de software, também atuo com soluções de hospedagem e infraestrutura para sites WordPress e aplicações web, oferecendo um ambiente seguro, estável e de alta performance.
 
-Serviços
-Hospedagem WordPress Gerenciada
-Hospedagem Cloud
-Migração de Sites
-Migração de E-mails
-Configuração de DNS
-SSL
-Backup Automático
-Monitoramento
-Otimização de Performance
-Consultoria em Infraestrutura
-🤝 Hostoo Alliance Partner
+### Serviços
 
-Como parceiro da Hostoo Alliance, disponibilizo soluções profissionais de hospedagem com infraestrutura de alta performance, segurança e suporte especializado para projetos WordPress e aplicações web.
+* 🌐 Hospedagem de Sites
+* ⚡ Hospedagem WordPress Gerenciada
+* ☁️ Hospedagem Cloud
+* 🔄 Migração de Sites
+* 📧 Migração de E-mails
+* 🌍 Configuração de DNS
+* 🔒 Certificado SSL
+* 💾 Backups Automáticos
+* 📊 Monitoramento
+* 🚀 Otimização de Performance
+* 🛠️ Consultoria em Infraestrutura
 
-📫 Quer trocar uma ideia sobre Flutter, tecnologia ou carreira? Me chama no e-mail ou WhatsApp!
+💬 Se você procura uma solução completa para hospedar seu site ou aplicação com segurança, performance e suporte especializado, entre em contato comigo para conhecer as opções disponíveis.
+
+📫 Quer trocar uma ideia sobre Flutter, tecnologia, hospedagem ou carreira? Me chama no e-mail ou WhatsApp!
+
 
 <p align="center">
   <a href="mailto:stobertonf@gmail.com" alt="Gmail">
@@ -94,8 +91,8 @@ Como parceiro da Hostoo Alliance, disponibilizo soluções profissionais de hosp
   <a href="https://gitlab.com/stobertonm" alt="GitLab">
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&labelColor=FC6D26&logo=gitlab&logoColor=white&link=https://gitlab.com/stobertonm" /></a>
 
-<a href="https://hostoo.io/?ref=fe10eafd1d2486f783859161e5810f94" alt="Hospedagem WordPress">
-  <img src="https://img.shields.io/badge/-WordPress%20Hosting-21759B?style=flat-square&labelColor=21759B&logo=wordpress&logoColor=white"/>
+<a href="https://api.whatsapp.com/send?phone=5511994223176&text=Olá!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conhecer%20as%20opções%20de%20hospedagem%20de%20sites." alt="Hospedagem de Sites">
+  <img src="https://img.shields.io/badge/-Hospedagem%20de%20Sites-21759B?style=flat-square&labelColor=21759B&logo=wordpress&logoColor=white"/>
 </a>
 
 </p>
