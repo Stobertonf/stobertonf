@@ -57,6 +57,25 @@ Atualmente, estou desenvolvendo esse projeto em Flutter, mas também estou imple
 
 💬 Estou revisando conceitos de Dart, Flutter, .NET e .NET MAUI. Caso você tenha dicas, links, correções nos meus códigos ou qualquer informação que possa me ajudar, ficarei muito grato por compartilhar!
 
+☁️ Infraestrutura & WordPress
+
+Também ofereço soluções completas para empresas que precisam colocar seus projetos na internet com segurança e alta disponibilidade.
+
+Serviços
+Hospedagem WordPress Gerenciada
+Hospedagem Cloud
+Migração de Sites
+Migração de E-mails
+Configuração de DNS
+SSL
+Backup Automático
+Monitoramento
+Otimização de Performance
+Consultoria em Infraestrutura
+🤝 Hostoo Alliance Partner
+
+Como parceiro da Hostoo Alliance, disponibilizo soluções profissionais de hospedagem com infraestrutura de alta performance, segurança e suporte especializado para projetos WordPress e aplicações web.
+
 📫 Quer trocar uma ideia sobre Flutter, tecnologia ou carreira? Me chama no e-mail ou WhatsApp!
 
 <p align="center">
