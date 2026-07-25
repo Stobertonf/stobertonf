@@ -85,9 +85,6 @@ Além do desenvolvimento de software, também atuo com soluções de hospedagem 
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176"/></a>
 
-  <a href="https://www.behance.net/smfsystems" alt="Behance">
-  <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&labelColor=1769FF&logo=behance&logoColor=white&link=https://www.behance.net/smfsystems" /></a>
-
   <a href="https://gitlab.com/stobertonm" alt="GitLab">
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&labelColor=FC6D26&logo=gitlab&logoColor=white&link=https://gitlab.com/stobertonm" /></a>
 
