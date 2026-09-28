@@ -47,6 +47,17 @@ Estou ampliando meu foco para **IA aplicada ao desenvolvimento de software**: LL
 - **C# / APIs:** arquitetura em camadas, DDD, injeção de dependências e autenticação JWT, para construir um backend sólido para meus projetos.
 - **.NET MAUI:** desenvolvimento mobile cross-platform, e de quebra pratico espanhol.
 
+### ⏸️ Em pausa — Ibe.ia
+
+Estudei **IA e automações** na plataforma **Ibe.ia**. Pausei esses estudos para me dedicar à Pós em Engenharia de IA Aplicada e pretendo voltar a eles depois.
+
+- 🔁 **N8N** e automações
+- 🤖 **Claude** e **Claude Code**
+- 📚 **RAG com Claude**
+- 💡 **Lovable**
+- 🧠 Fundamentos de IA & Automações
+- …e outros conteúdos da plataforma
+
 ### ✅ Concluídos
 - Carreira **Desenvolvedor Flutter** — Balta.io
 - **Flutter 2.0** — Jamilton Damasceno (Udemy): revisão de Dart/Flutter e introdução ao Flutter Web
