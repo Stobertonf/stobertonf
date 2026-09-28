@@ -1,105 +1,109 @@
-👋 Me chamo Stoberton e sou formado em Análise e Desenvolvimento de Sistemas pela FMU.
+# Olá, eu sou o Stoberton 👋
 
-🥰 Sou apaixonado por tecnologia, café e uma coquinha.
+Formado em **Análise e Desenvolvimento de Sistemas** pela **FMU**.
+🥰 Apaixonado por tecnologia, café e uma coquinha.
 
-🎓 Atuo como Flutter Developer — Mobile & Web Apps na SMF Systems Technology e estou focado em conquistar a certificação Flutter Certified Application Developer. Para isso, venho me dedicando a uma rotina intensa de estudos e projetos práticos.
+🎓 Atuo como **Flutter Developer — Mobile & Web Apps** na **SMF Systems Technology**. Estou me preparando para a certificação **Flutter Certified Application Developer**, com uma rotina intensa de estudos e projetos práticos.
 
-📚 Estudos e formações recentes:
+---
 
-Iniciando um curso com os instrutores Daniel Ciolfi e Rodrigo Marques (Udemy).
+## 🤖 Pós-graduação em andamento
 
-Completei a carreira de Desenvolvedor Flutter no Balta.io.
+### UNIPDS — Pós em Engenharia de IA Aplicada
 
-Estudando inglês com o professor Mairo Vergara.
+Estou ampliando meu foco para **IA aplicada ao desenvolvimento de software**: LLMs, agentes autônomos, MCP e arquitetura de sistemas com IA.
 
-Finalizei o curso Flutter 2.0 com o professor Jamilton Damasceno (Udemy), onde revi conceitos fundamentais de Dart e Flutter e aprendi sobre Flutter Web.
+<details>
+<summary><b>📋 Grade curricular (clique para expandir)</b></summary>
 
-🚀 Atualmente realizando o curso: Aprenda a Criar um App de Pizzaria – FlutterFlow | NoCode
+1. Fundamentos de IA e LLMs para Programadores
+2. APIs de IA Generativa e Prompt Engineering
+3. MCP – Model Context Protocol
+4. Criação de Agentes Autônomos
+5. Ferramentas de IA para UX & UI
+6. Ferramentas de IA para DevOps
+7. Ferramentas de IA para Gestão de Projetos
+8. Arquitetura de Sistemas com IA
+9. Processamento de Dados e Fine Tuning
+10. Segurança e Governança em IA
+11. Projeto Integrador – Capstone Project
+12. Carreira e Entrevistas para Engenheiros de IA Aplicada
 
-👨‍🏫 Professor: Diego Silva
+</details>
 
-🎓 Plataforma: Udemy
+---
 
-Neste curso, estou explorando o FlutterFlow como ferramenta NoCode/LowCode, com foco em produtividade, validação rápida de ideias (MVPs) e compreensão de fluxos visuais, integrando esse conhecimento à minha base sólida em Flutter tradicional.
+## 📚 Estudando agora
 
-📌 Estudo de APIs em C#: Atualmente, também estou me aprofundando no desenvolvimento de APIs com C#.
+| Tema | Curso | Instrutor | Plataforma |
+|------|-------|-----------|------------|
+| 🚀 FlutterFlow (NoCode/LowCode) | Aprenda a Criar um App de Pizzaria – FlutterFlow | Diego Silva | Udemy |
+| 📌 APIs em C# | Aprenda a criar uma API REST completa com C# (Net7 e EFCore7) | Weberson Rodrigues | Udemy |
+| 📱 .NET MAUI + 🇪🇸 Espanhol | .NET MAUI con Visual Studio 2022 creando PROYECTOS | Héctor Uriel Pérez | Udemy |
+| 💙 Flutter | Curso com Daniel Ciolfi e Rodrigo Marques | Daniel Ciolfi & Rodrigo Marques | Udemy |
+| 🇺🇸 Inglês | Inglês | Mairo Vergara | — |
 
-📚 Curso: Aprenda a criar uma API REST completa com C# (Net7 e EFCore7)
+- **FlutterFlow:** produtividade, validação rápida de ideias (MVPs) e fluxos visuais, somados à minha base em Flutter tradicional.
+- **C# / APIs:** arquitetura em camadas, DDD, injeção de dependências e autenticação JWT, para construir um backend sólido para meus projetos.
+- **.NET MAUI:** desenvolvimento mobile cross-platform, e de quebra pratico espanhol.
 
-👨‍🏫 Professor: Weberson Rodrigues (Udemy)
+### ✅ Concluídos
+- Carreira **Desenvolvedor Flutter** — Balta.io
+- **Flutter 2.0** — Jamilton Damasceno (Udemy): revisão de Dart/Flutter e introdução ao Flutter Web
 
-Este curso foca na criação de APIs completas utilizando boas práticas, como separação por camadas, DDD, injeção de dependências e autenticação JWT. Meu objetivo é aplicar esse conhecimento na construção de um backend sólido para meus projetos.
+---
 
-📱 Estudo de .NET MAUI e Espanhol: Também estou estudando desenvolvimento mobile cross-platform com .NET MAUI, o que tem ampliado minha visão sobre construção de apps nativos e multiplataforma.
+## 🧑‍💻 Projeto pessoal: App de Administração de Contas
 
-📚 Curso: .NET MAUI con Visual Studio 2022 creando PROYECTOS
+Projeto **autoral e independente**, sem vínculo com as empresas onde trabalho.
 
-👨‍🏫 Instrutor: Héctor Uriel Pérez (Udemy)
+- **Stack:** Dart · Flutter · Firebase · Cubit
+- **Arquitetura:** SOLID · Clean Architecture
+- **Em paralelo:** versão em **.NET MAUI** para validar tecnologias multiplataforma
+- **Próximos passos:** API em **C#** e portfólio em **Flutter Web**
 
-Além do aprendizado técnico, o curso me proporciona a oportunidade de treinar e aprimorar meu espanhol, agregando ainda mais valor à minha formação.
+---
 
-🧑‍💻 Em meu tempo livre, estou desenvolvendo, de forma independente, um app pessoal para a administração de contas. Este projeto é totalmente autoral e independente, sem qualquer vínculo com as empresas onde trabalho.
+## 🛠️ Tecnologias
 
-Estou planejando uma API em C# e um portfólio em Dart & Flutter Web para apresentar o projeto.
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-4B39EF?style=for-the-badge&logo=flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![AI](https://img.shields.io/badge/IA_Aplicada-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-O projeto utiliza Dart, Flutter, SOLID, Clean Architecture, Firebase como banco de dados e Cubit como gerenciador de estado.
-
-Atualmente, estou desenvolvendo esse projeto em Flutter, mas também estou implementando uma versão em .NET MAUI como parte do meu processo de aprendizado e validação de tecnologias multiplataforma.
-
-🌱 Meu Perfil na Dev.to: dev.to/stobertonf
-
-🔭 Conheça minha trajetória profissional no LinkedIn: linkedin.com/in/stoberton-francisco
-
-💬 Estou revisando conceitos de Dart, Flutter, .NET e .NET MAUI. Caso você tenha dicas, links, correções nos meus códigos ou qualquer informação que possa me ajudar, ficarei muito grato por compartilhar!
+---
 
 ## ☁️ Infraestrutura & Hospedagem
 
-Além do desenvolvimento de software, também atuo com soluções de hospedagem e infraestrutura para sites WordPress e aplicações web, oferecendo um ambiente seguro, estável e de alta performance.
+Além do desenvolvimento, ofereço **hospedagem e infraestrutura** para sites WordPress e aplicações web, com ambiente seguro, estável e de alta performance.
 
-### Serviços
+<details>
+<summary><b>🧰 Serviços oferecidos (clique para expandir)</b></summary>
 
-* 🌐 Hospedagem de Sites
-* ⚡ Hospedagem WordPress Gerenciada
-* ☁️ Hospedagem Cloud
-* 🔄 Migração de Sites
-* 📧 Migração de E-mails
-* 🌍 Configuração de DNS
-* 🔒 Certificado SSL
-* 💾 Backups Automáticos
-* 📊 Monitoramento
-* 🚀 Otimização de Performance
-* 🛠️ Consultoria em Infraestrutura
+| | | |
+|---|---|---|
+| 🌐 Hospedagem de Sites | ⚡ WordPress Gerenciado | ☁️ Hospedagem Cloud |
+| 🔄 Migração de Sites | 📧 Migração de E-mails | 🌍 Configuração de DNS |
+| 🔒 Certificado SSL | 💾 Backups Automáticos | 📊 Monitoramento |
+| 🚀 Otimização de Performance | 🛠️ Consultoria em Infraestrutura | |
 
-💬 Se você procura uma solução completa para hospedar seu site ou aplicação com segurança, performance e suporte especializado, entre em contato comigo para conhecer as opções disponíveis.
+</details>
 
-📫 Quer trocar uma ideia sobre Flutter, tecnologia, hospedagem ou carreira? Me chama no e-mail ou WhatsApp!
+💬 Precisa hospedar seu site ou aplicação com segurança, performance e suporte especializado? Fale comigo!
 
+---
 
-<p align="center">
-  <a href="mailto:stobertonf@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=stobertonf@gmail.com" /></a>
+## 🤝 Vamos conversar?
 
-  <a href="https://www.linkedin.com/in/stoberton-francisco/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoberton-francisco/" /></a>
+💬 Estou revisando conceitos de **Dart, Flutter, .NET, .NET MAUI e IA**. Dicas, links e correções nos meus códigos são muito bem-vindos!
 
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176"/></a>
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/stobertonf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stoberton-francisco)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
 
-  <a href="https://gitlab.com/stobertonm" alt="GitLab">
-  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&labelColor=FC6D26&logo=gitlab&logoColor=white&link=https://gitlab.com/stobertonm" /></a>
-
-<a href="https://api.whatsapp.com/send?phone=5511994223176&text=Olá!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conhecer%20as%20opções%20de%20hospedagem%20de%20sites." alt="Hospedagem de Sites">
-  <img src="https://img.shields.io/badge/-Hospedagem%20de%20Sites-21759B?style=flat-square&labelColor=21759B&logo=wordpress&logoColor=white"/>
-</a>
-
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/stobertonf">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=stobertonf&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</p>
+📫 Bora trocar uma ideia sobre Flutter, IA, tecnologia, hospedagem ou carreira!
