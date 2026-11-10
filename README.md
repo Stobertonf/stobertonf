@@ -3,7 +3,7 @@
 Formado em **Análise e Desenvolvimento de Sistemas** pela **FMU**.
 🥰 Apaixonado por tecnologia, café e uma coquinha.
 
-🎓 Atuo como **Flutter Developer — Mobile & Web Apps** na **SMF Systems Technology**. Estou me preparando para a certificação **Flutter Certified Application Developer**, com uma rotina intensa de estudos e projetos práticos.
+🎓 Atuo como **Tech Lead — Java na Evertec** na **Evertec**. Estou me preparando para a certificação **Flutter Certified Application Developer**, com uma rotina intensa de estudos e projetos práticos.
 
 ---
 
@@ -77,6 +77,7 @@ Projeto **autoral e independente**, sem vínculo com as empresas onde trabalho.
 
 ## 🛠️ Tecnologias
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
