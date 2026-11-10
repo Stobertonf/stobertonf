@@ -54,14 +54,21 @@ Estudei **IA e automações** na plataforma **Ibe.ia**. Pausei esses estudos par
 💡 Lovable
 …e outros conteúdos da plataforma
 
+### ⏸️ Em pausa — Ibe.ia
+
+Estudei **IA e automações** na plataforma **Ibe.ia**. Pausei esses estudos para me dedicar à Pós em Engenharia de IA Aplicada e pretendo voltar a eles depois.
+
+- 💡 **Lovable**
+- …e outros conteúdos da plataforma
+
 ### ✅ Concluídos
 
-💙 Carreira Desenvolvedor Flutter, da Balta.io
-📱 Flutter 2.0, do Jamilton Damasceno
-🔁 N8N e automações — Ibe.ia
-🤖 Claude e Claude Code — Ibe.ia
-📚 RAG com Claude — Ibe.ia
-🧠 Fundamentos de IA & Automações — Ibe.ia
+- 💙 Carreira **Desenvolvedor Flutter** — Balta.io
+- 📱 **Flutter 2.0** — Jamilton Damasceno (Udemy): revisão de Dart/Flutter e introdução ao Flutter Web
+- 🔁 **N8N** e automações — Ibe.ia
+- 🤖 **Claude** e **Claude Code** — Ibe.ia
+- 📚 **RAG com Claude** — Ibe.ia
+- 🧠 Fundamentos de IA & Automações — Ibe.ia
 
 ---
 
