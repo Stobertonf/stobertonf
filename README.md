@@ -51,13 +51,6 @@ Estou ampliando meu foco para **IA aplicada ao desenvolvimento de software**: LL
 
 Estudei **IA e automações** na plataforma **Ibe.ia**. Pausei esses estudos para me dedicar à Pós em Engenharia de IA Aplicada e pretendo voltar a eles depois.
 
-💡 Lovable
-…e outros conteúdos da plataforma
-
-### ⏸️ Em pausa — Ibe.ia
-
-Estudei **IA e automações** na plataforma **Ibe.ia**. Pausei esses estudos para me dedicar à Pós em Engenharia de IA Aplicada e pretendo voltar a eles depois.
-
 - 💡 **Lovable**
 - …e outros conteúdos da plataforma
 
